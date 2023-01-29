@@ -298,7 +298,7 @@ body {
 }
 
 
-/* Changes color from day to night if you widen it more than 1000px */
+/* Changes color from day to night if you stretch it more than 1000px */
 
 @media (max-width: 1000px) {
    :root {
